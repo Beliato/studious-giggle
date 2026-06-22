@@ -1,0 +1,22 @@
+{
+  "name": "studious-giggle-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Studious Giggle - WhatsApp AI assistant for Airbnb hosts",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "nuxt": "^3.11.2"
+  }
+}
